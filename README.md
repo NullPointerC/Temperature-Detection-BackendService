@@ -11,3 +11,5 @@ Although this project is very simple, we learned from it the virtual host and re
 # 延伸阅读
 
 "# wxapp" 
+
+thanks to [murphysec](https://github.com/murphysec), they helped me find loopholes in the code,and this project has been offline。 Thanks again！
